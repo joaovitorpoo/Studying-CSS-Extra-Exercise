@@ -1,0 +1,55 @@
+body {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+#navOne{
+    width: 100%;
+    margin-top: auto 0px;
+    padding: 0px;
+    top: 0px;
+    position: relative;
+    background-color: #F3F3F3;
+    float: left;
+    height: 30px;
+}
+#navOne-ListOne {
+    position: relative;
+    width: 400px;
+    margin-top: 0;
+    margin-left: 175px;
+    padding: 7px;
+    float: left;
+}
+#navOne-ListTwo {
+    position: relative;
+    margin: auto 0;
+    left: 300px;
+    padding: 7px;
+    float: left;
+}
+.navOne-ListOne-Component {
+    position: relative;
+    margin: 0px;
+    padding-right: 5px;
+    font: 15px arial,helvetica,freesans,sans-serif;
+    font-weight: bold;
+    font-size: 90%;
+}
+.navOne-ListTwo-Component {
+    position: relative;
+    margin: 0px;
+    padding: 1px;
+    padding-right: 5px;
+    font: 11px arial,helvetica,freesans,sans-serif;
+    float: left;
+    color: #999;
+}
+#buttonListTwo{
+    bottom: 2px;
+}
